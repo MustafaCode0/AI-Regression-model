@@ -1,5 +1,10 @@
 # AI-Regression-model
 Simple linear regression model written in python.
+
+Start by copy pasting the (weight-height) data into excel file and save it under the same name, 
+then you can copy paste the code and remember both the python and .csv file has be in the same path/folder.
+
+
 When you look the scatter plot you see a straight black line(model's prediction) right in the middle of
 the dots(dataset) which tells us that the prediction of the model in this case Y_pred(Weight) is very accurate.
 
