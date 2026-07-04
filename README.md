@@ -1,2 +1,10 @@
 # AI-Regression-model
 Simple linear regression model written in python.
+When you look the scatter plot you see a straight black line(model's prediction) right in the middle of
+the dots(dataset) which tells us that the prediction of the model in this case Y_pred(Weight) is very accurate.
+
+The program calculates R2 and gives value 0.8551742120609958 which is the score of our model's prediction it tells us how accurate
+the model guessed the weight based on their height and the score of 0.85 is like saying it got 85% which is good.
+
+The RMSE(root mean square error) is 12.218571272826035 which indicates that the model guessed on average 12kg/units
+wrong, which is also not bad.
