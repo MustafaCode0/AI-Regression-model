@@ -15,4 +15,5 @@ the model guessed the weight based on their height and the score of 0.85 is like
 The RMSE(root mean square error) is 12.218571272826035 which indicates that the model guessed on average 12kg/units
 wrong, which is also not bad.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c020d0c9-cbbd-46f1-a9e4-fac027227786" />
+<img width="761" height="607" alt="code" src="https://github.com/user-attachments/assets/7bc9e92f-ac1f-4164-95cf-08b0286577a2" />
+
