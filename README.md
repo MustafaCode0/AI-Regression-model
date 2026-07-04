@@ -4,6 +4,7 @@ Simple linear regression model written in python.
 Start by copy pasting the (weight-height) data into excel file and save it under the same name, 
 then you can copy paste the code and remember both the python and .csv file has be in the same path/folder.
 
+<img width="695" height="567" alt="plot" src="https://github.com/user-attachments/assets/45dca777-245c-49d0-a661-a5002331f993" />
 
 When you look the scatter plot you see a straight black line(model's prediction) right in the middle of
 the dots(dataset) which tells us that the prediction of the model in this case Y_pred(Weight) is very accurate.
@@ -13,3 +14,4 @@ the model guessed the weight based on their height and the score of 0.85 is like
 
 The RMSE(root mean square error) is 12.218571272826035 which indicates that the model guessed on average 12kg/units
 wrong, which is also not bad.
+
